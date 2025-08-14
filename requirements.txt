@@ -1,11 +1,10 @@
 streamlit
-chromadb
+langchain
 openai
-sentence-transformers
-transformers
-faiss-cpu
+tiktoken
+chromadb
 pandas
 numpy
-PyPDF2
+scikit-learn
 python-dotenv
-tqdm
+PyPDF2
