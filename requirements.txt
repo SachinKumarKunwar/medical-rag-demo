@@ -1,0 +1,11 @@
+streamlit
+chromadb
+openai
+sentence-transformers
+transformers
+faiss-cpu
+pandas
+numpy
+PyPDF2
+python-dotenv
+tqdm

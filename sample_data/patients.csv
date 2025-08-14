@@ -1,0 +1,4 @@
+patient_id,age,sex,medications,allergies,conditions
+P001,78,F,"lisinopril;spironolactone","penicillin","I10"
+P002,45,M,"amlodipine","none","I10"
+P003,65,F,"lisinopril;potassium_supplement","none","I10"

@@ -1,0 +1,13 @@
+Title: Example Hypertension Guideline (Synthetic)
+Source: SyntheticClinicalGuidelines Journal, 2024
+
+Summary:
+- For adults aged >= 18 years with stage 1 hypertension (systolic 130-139 or diastolic 80-89), lifestyle modification is recommended.
+- First-line pharmacologic treatment often includes ACE inhibitors, ARBs, thiazide diuretics, or dihydropyridine CCBs.
+- For elderly patients (>75 years) start at lower doses and monitor renal function and electrolytes.
+- Contraindications: ACE inhibitors are contraindicated in patients with a history of angioedema or bilateral renal artery stenosis.
+- Drug interaction note: Combining ACE inhibitors with potassium-sparing diuretics or high potassium supplements increases hyperkalemia risk.
+
+Example dosing (synthetic):
+- Lisinopril: start 5 mg once daily in elderly; usual range 10-40 mg daily.
+- Amlodipine: 2.5-5 mg once daily; usual range 5-10 mg daily.
