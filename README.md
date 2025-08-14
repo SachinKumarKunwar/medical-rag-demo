@@ -50,10 +50,3 @@ streamlit run app/streamlit_app.py
 ## Security & Compliance
 - **Do not** load any real patient data until you are sure your runtime and deployment targets are HIPAA/GDPR compliant.
 - The `sample_data/patients.csv` is synthetic and anonymized and intended only for testing.
-
-## Support
-If you want, I can:
-- Create a GitHub-ready repo structure and provide the exact `git` commands to publish it.
-- Walk you through deploying to HuggingFace Spaces, Streamlit Cloud, or a Docker host step-by-step.
-
-Enjoy — the full project files are included in this zip. See the attached archive to download and run locally.
