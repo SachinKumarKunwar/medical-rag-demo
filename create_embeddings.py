@@ -1,5 +1,5 @@
 import argparse, os, uuid
-from backend.ingest import load_texts_from_dir, chunk_text, get_local_embeddings, get_openai_embedding
+from ingest import load_texts_from_dir, chunk_text, get_local_embeddings, get_openai_embedding
 import chromadb
 from chromadb.config import Settings
 import math
@@ -25,7 +25,7 @@ def main(docs_dir, persist_dir='./chroma_db', use_openai=False):
     if use_openai:
         from dotenv import get_key
         import os
-        from backend.ingest import get_openai_embedding
+        from ingest import get_openai_embedding
         key = os.getenv('OPENAI_API_KEY')
         embeddings = get_openai_embedding(docs, openai_api_key=key)
     else:

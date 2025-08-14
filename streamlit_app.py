@@ -1,5 +1,5 @@
 import streamlit as st
-from backend.retrieval import generate_answer, load_patient_by_id
+from retrieval import generate_answer, load_patient_by_id
 import os
 
 st.set_page_config(page_title='Medical Literature RAG Demo', layout='wide')

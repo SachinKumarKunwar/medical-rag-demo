@@ -3,7 +3,7 @@ import chromadb
 from chromadb.config import Settings
 from typing import List
 import openai
-from utils.drug_interactions import check_interactions
+from drug_interactions import check_interactions
 import pandas as pd
 from dotenv import load_dotenv
 
