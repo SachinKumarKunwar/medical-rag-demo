@@ -1,3 +1,13 @@
+---
+title: Medical RAG Demo
+emoji: 🩺
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.25.0"
+app_file: streamlit_app.py
+pinned: false
+---
 # Medical Literature RAG for Healthcare Professionals
 
 **What this repo contains**
